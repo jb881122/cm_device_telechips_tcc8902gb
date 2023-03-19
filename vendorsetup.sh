@@ -1,0 +1,12 @@
+add_lunch_combo cyanogen_concorde71gb-eng
+add_lunch_combo cyanogen_gpad802gb-eng
+add_lunch_combo cyanogen_kyros7015gb-eng
+add_lunch_combo cyanogen_kyros7016gb_8k-eng
+add_lunch_combo cyanogen_m1001gb-eng
+add_lunch_combo cyanogen_m1001gb_8k-eng
+add_lunch_combo cyanogen_m701gb-eng
+add_lunch_combo cyanogen_m701gb_8k-eng
+add_lunch_combo cyanogen_miscrollgb_8k-eng
+add_lunch_combo cyanogen_p7sgb_8k-eng
+add_lunch_combo cyanogen_scroll7cgb_8k-eng
+add_lunch_combo cyanogen_x6gb-eng
